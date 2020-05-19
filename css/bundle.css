@@ -2,7 +2,7 @@
     position:relative
 }
 .minicolors-sprite{
-    background-image:url(https://mgx-one.nl/siniri/cdn/images/colorpicker.png)
+    background-image:url(../images/colorpicker.png)
 }
 .minicolors-swatch{
     position:absolute;
@@ -4220,15 +4220,15 @@
     position:absolute
 }
 #loading-screen .maou-circle-container .maou-circle.p1{
-    background:url(https://mgx-one.nl/siniri/cdn/images/loading-screen/maoucircle1.png);
+    background:url(../images/screen-preloader/maoucircle1.png);
     animation:spinRight 32s linear infinite,fadeIn 6s
 }
 #loading-screen .maou-circle-container .maou-circle.p2{
-    background:url(https://mgx-one.nl/siniri/cdn/images/loading-screen/maoucircle2.png);
+    background:url(../images/screen-preloader/maoucircle2.png);
     animation:spinLeft 8s linear infinite,fadeIn 6s
 }
 #loading-screen .maou-circle-container .maou-circle.p3{
-    background:url(https://mgx-one.nl/siniri/cdn/images/loading-screen/maoucircle3.png);
+    background:url(../images/screen-preloader/maoucircle3.png);
     animation:spinRight 16s linear infinite,fadeIn 6s
 }
 #loading-screen .message{
@@ -4529,7 +4529,7 @@ body{
     right:0;
     opacity:.3;
     background-size:cover;
-    background-image:url(https://mgx-one.nl/siniri/cdn/images/menuBlur.jpg)
+    background-image:url(../images/menuBlur.jpg)
 }
 .control-bar-container{
     background:rgba(255,255,255,.04);
@@ -4639,7 +4639,7 @@ body{
     border-radius:50%
 }
 .skin-preview{
-    background:url(https://mgx-one.nl/siniri/cdn/images/siniri.jpg);
+    background:url(../images/siniri.jpg);
     width:180px;
     height:180px;
     border-radius:50%;
